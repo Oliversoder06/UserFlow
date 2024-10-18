@@ -3,8 +3,10 @@ import React from 'react'
 
 const Navbar = () => {
     return (
-        <nav className='bg-[#B4B4B4] h-[100px] flex justify-center'>
-            <div className='max-w-[1440px] h-full w-full flex items-center justify-between px-2'>
+        <nav className='bg-[#B4B4B4] h-[100px] flex justify-center '>
+            <div className='max-w-[1440px] h-full w-full flex items-center justify-between px-2
+           
+            '>
                 <Link href="/">
                     <h1 className='text-black text-2xl font-bold'>UserFlow</h1>
                 </Link>
